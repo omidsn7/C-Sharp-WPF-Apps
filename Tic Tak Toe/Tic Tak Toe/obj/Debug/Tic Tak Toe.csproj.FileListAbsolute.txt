@@ -1,0 +1,31 @@
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe.config
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.pdb
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.AssemblyReference.cache
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\MainWindow.g.cs
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\App.g.cs
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe_MarkupCompile.cache
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe_MarkupCompile.lref
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\MainWindow.baml
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.g.resources
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic_Tak_Toe.Properties.Resources.resources
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.GenerateResource.cache
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.exe
+C:\Users\O_sorayaee\Desktop\New folder\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.pdb
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe.config
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.exe
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\bin\Debug\Tic Tak Toe.pdb
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.AssemblyReference.cache
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\MainWindow.g.cs
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\App.g.cs
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe_MarkupCompile.cache
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe_MarkupCompile.lref
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\MainWindow.baml
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.g.resources
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic_Tak_Toe.Properties.Resources.resources
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.GenerateResource.cache
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.csproj.CoreCompileInputs.cache
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.exe
+E:\projects\C#\WPF\Tic Tak Toe\Tic Tak Toe\obj\Debug\Tic Tak Toe.pdb
